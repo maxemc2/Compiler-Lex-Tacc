@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "util.h": "c",
+        "semcheck.h": "c",
+        "symtable.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c"
+    }
+}
